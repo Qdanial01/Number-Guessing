@@ -15,7 +15,7 @@ Number guessing game where players enter guesses in the terminal and receive fee
 ### **How to Run:**
 ```bash
 python number_guesser_cli.py
-
+```
 ---
 
 ## **GUI Version**
