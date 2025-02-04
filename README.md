@@ -44,10 +44,11 @@ Option 2(Through dist/ folder)
 ### **How to Run:**
 ```bash
 python Number_Guess_Game_with_gui.py
+NumberGuesser/
 ```
 
 ## Project Structure
-NumberGuesser/ 
+NumberGuesser/
 │── build/ # Build files (can be ignored) 
 │── dist/ # Contains the .exe file 
 │── Number_Guess_Game.py # Command-line version 
@@ -55,7 +56,6 @@ NumberGuesser/
 │── Number_Guess_Game_with_gui.spec # Spec file for PyInstaller 
 │── README.md # Documentation 
 │── Number_Guess_Game_with_gui.zip #Game packed into an executable file
----
 
 ## Building the exe on your own
 If you wish to build the exe from the code itself, you can run this command in the terminal
