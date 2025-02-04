@@ -47,15 +47,14 @@ python Number_Guess_Game_with_gui.py
 ```
 
 ## Project Structure
-NumberGuesser/
-│── build/                 # Build files (can be ignored)
-│── dist/                  # Contains the .exe file
-│── Number_Guess_Game.py      # Command-line version
-│── Number_Guess_Game_with_gui.py  # GUI version
-│── Number_Guess_Game_with_gui.spec    # Spec file for PyInstaller
-│── README.md              # Documentation
-│── Number_Guess_Game_with_gui.zip #Game packed into executable file
-
+NumberGuesser/ 
+│── build/ # Build files (can be ignored) 
+│── dist/ # Contains the .exe file 
+│── Number_Guess_Game.py # Command-line version 
+│── Number_Guess_Game_with_gui.py # GUI version 
+│── Number_Guess_Game_with_gui.spec # Spec file for PyInstaller 
+│── README.md # Documentation 
+│── Number_Guess_Game_with_gui.zip #Game packed into an executable file
 ---
 
 ## Building the exe on your own
