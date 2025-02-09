@@ -1,6 +1,6 @@
 # Number Guessing Game
-There's 2 python files in this project both of which serves the purpose of a number Guessing Game
-- Number_Guess_Game.py (**Command Line Version**) - Basic version of a number guessing game written in python.
+There are 2 python files in this project both of which serve the purpose of a number Guessing Game
+- Number_Guess_Game.py (**Command Line Version**) - Basic version of a number guessing game written in Python.
 - Number_Guess_Game_with_GUI.py (**Integrated GUI**) - UI built into the game with TKinter
 
 GUI version contains a standalone **Windows executable(.exe)**!
@@ -36,8 +36,8 @@ Option 1 (Through zip file)
 2. Extract the ZIP file.
 3. Open the extracted folder and double-click `Number_Guess_Game_with_gui.exe`.
 
-Option 2(Through dist/ folder)
-1. Clone/donwload respository
+Option 2 (Through dist/ folder)
+1. Clone/download repository
 2. Navigate dist/ folder
 3. Run Number_Guess_Game_with_gui
 
